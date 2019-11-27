@@ -4,5 +4,5 @@ Séance 1 : [![Open In Colab](https://colab.research.google.com/assets/colab-bad
 
 
 
-  Séance 2 : ..* Perceptron : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E7e5ymUFflPyRTN14Eft7JwmkjGmodtP)
-  ..* Sigmoid neuron : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h0cRyTMiq4ER1h7nM9NcAk-YuNtNX_72)
+  Séance 2 : * Perceptron : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E7e5ymUFflPyRTN14Eft7JwmkjGmodtP)
+  * Sigmoid neuron : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h0cRyTMiq4ER1h7nM9NcAk-YuNtNX_72)
