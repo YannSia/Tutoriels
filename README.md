@@ -11,4 +11,4 @@ Séance 2 :
   Correction : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MQFhwaLZZjoUiCPLUzGt8PwzBU7L7FQF)
 
 Séance 3 :
- * Perceptron : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15vx8hBiVWXwCBIVEJ08wDdsZ5MfnyByo)
+ * Neural Network : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15vx8hBiVWXwCBIVEJ08wDdsZ5MfnyByo)
