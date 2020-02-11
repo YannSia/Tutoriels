@@ -13,5 +13,6 @@ Séance 2 :
 Séance 3 :
  * Neural Network : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15vx8hBiVWXwCBIVEJ08wDdsZ5MfnyByo)
  Correction : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eL-pPR0xI6yDPAGFBqBUg8gQT2_E-Hjk)  
- Séance 4 :
+ 
+Séance 4 :
  * CNN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iybCviNTSmHrLoBzae1UmZ5GndrVmB7g)
