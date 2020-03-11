@@ -20,5 +20,4 @@ Correction : [![Open In Colab](https://colab.research.google.com/assets/colab-ba
 
 Séance 5:
  * RNN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YLZxTsKoB2wAitr-eLv--Xz5lSZqWVFJ)
- Correction : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/drive/1Y4fM4-e_elcdSAgU5HSMBM8MwPlFQXIA)
+ Correction : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y4fM4-e_elcdSAgU5HSMBM8MwPlFQXIA)
