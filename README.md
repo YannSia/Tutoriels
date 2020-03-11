@@ -17,3 +17,6 @@ Séance 3 :
 Séance 4 :
  * CNN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iybCviNTSmHrLoBzae1UmZ5GndrVmB7g)
 Correction : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rUbw9YdysW6DAq6Tg-671h76Rt5axqy8)
+
+Séance 5:
+ * RNN : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YLZxTsKoB2wAitr-eLv--Xz5lSZqWVFJ)
